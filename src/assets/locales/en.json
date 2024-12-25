@@ -15,7 +15,7 @@
       "title": "The search results display the show or movie, why can't I play it?"
     },
     "q4": {
-      "body": "All data is synced to the sudo-backend which is different than the community backend and is independently hosted by me, anyone is free to use this as well.",
+      "body": "All data is synced to the Slimshadow Backend which is different than the community backend and is independently hosted by me, anyone is free to use this as well.",
       "title": "What about my data and stuff?"
     },
     "q5": {
@@ -204,7 +204,7 @@
     "menu": {
       "about": "About us",
       "logout": "Log out",
-      "register": "Sync to sudo-cloud",
+      "register": "Sync to Slimshadow cloud",
       "settings": "Settings",
       "support": "Support",
       "discover": "Discover"
@@ -553,7 +553,7 @@
       "register": {
         "cta": "Get started",
         "text": "Share your watch progress between devices and keep them synced. ( ̧⸝⸝⍢⸝⸝)ෆ",
-        "title": "Sync to the sudo-cloud"
+        "title": "Sync to the slimshadow cloud"
       },
       "title": "Account"
     },
